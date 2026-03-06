@@ -6,7 +6,10 @@
   <a href="https://www.python.org/downloads/release/python-3100/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
 </p>
 <p align="center">
-  <img src="assets/stanford_logo.png" alt="Stanford University" width="20" style="vertical-align: middle;"> Stanford University &nbsp;·&nbsp; KAUST &nbsp;·&nbsp; University of Toronto &nbsp;·&nbsp; MIT
+  <img src="assets/stanford_logo.png" alt="Stanford University" height="40" style="vertical-align: middle;"> &nbsp;
+  <img src="assets/kaust_logo.png" alt="KAUST" height="40" style="vertical-align: middle;"> &nbsp;
+  <img src="assets/uoft_logo.png" alt="University of Toronto" height="40" style="vertical-align: middle;"> &nbsp;
+  <img src="assets/mit_logo.png" alt="MIT" height="40" style="vertical-align: middle;">
 </p>
 
 Official code for the paper: **"Multi-User Large Language Model Agents"**
