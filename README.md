@@ -5,12 +5,14 @@
   <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License"></a>
   <a href="https://www.python.org/downloads/release/python-3100/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
 </p>
-<p align="center">
-  <img src="assets/stanford_logo.png" alt="Stanford University" height="40" style="vertical-align: middle;"> &nbsp;
-  <img src="assets/kaust_logo.png" alt="KAUST" height="40" style="vertical-align: middle;"> &nbsp;
-  <img src="assets/uoft_logo.png" alt="University of Toronto" height="40" style="vertical-align: middle;"> &nbsp;
-  <img src="assets/mit_logo.png" alt="MIT" height="40" style="vertical-align: middle;">
-</p>
+<table align="center" border="0" cellspacing="24" cellpadding="0">
+  <tr>
+    <td align="center"><img src="assets/stanford_logo.png" alt="Stanford" height="50"><br><sub>Stanford University</sub></td>
+    <td align="center"><img src="assets/kaust_logo.png" alt="KAUST" height="50"><br><sub>KAUST</sub></td>
+    <td align="center"><img src="assets/uoft_logo.png" alt="UofT" height="50"><br><sub>University of Toronto</sub></td>
+    <td align="center"><img src="assets/mit_logo.png" alt="MIT" height="50"><br><sub>MIT</sub></td>
+  </tr>
+</table>
 
 Official code for the paper: **"Multi-User Large Language Model Agents"**
 
